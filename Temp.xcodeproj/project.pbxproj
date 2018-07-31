@@ -13,6 +13,7 @@
 		2ABBD1B92110CDCD002F5417 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2ABBD1B82110CDCD002F5417 /* Assets.xcassets */; };
 		2ABBD1BC2110CDCD002F5417 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2ABBD1BA2110CDCD002F5417 /* LaunchScreen.storyboard */; };
 		2ABBD1BF2110CDCD002F5417 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2ABBD1BE2110CDCD002F5417 /* main.m */; };
+		2ABBD1C72110CF4B002F5417 /* House.m in Sources */ = {isa = PBXBuildFile; fileRef = 2ABBD1C62110CF4B002F5417 /* House.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		2ABBD1BB2110CDCD002F5417 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2ABBD1BD2110CDCD002F5417 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2ABBD1BE2110CDCD002F5417 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2ABBD1C52110CF4B002F5417 /* House.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = House.h; sourceTree = "<group>"; };
+		2ABBD1C62110CF4B002F5417 /* House.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = House.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				2ABBD1B02110CDCC002F5417 /* AppDelegate.m */,
 				2ABBD1B22110CDCC002F5417 /* ViewController.h */,
 				2ABBD1B32110CDCC002F5417 /* ViewController.m */,
+				2ABBD1C52110CF4B002F5417 /* House.h */,
+				2ABBD1C62110CF4B002F5417 /* House.m */,
 				2ABBD1B52110CDCC002F5417 /* Main.storyboard */,
 				2ABBD1B82110CDCD002F5417 /* Assets.xcassets */,
 				2ABBD1BA2110CDCD002F5417 /* LaunchScreen.storyboard */,
@@ -143,6 +148,7 @@
 			files = (
 				2ABBD1B42110CDCC002F5417 /* ViewController.m in Sources */,
 				2ABBD1BF2110CDCD002F5417 /* main.m in Sources */,
+				2ABBD1C72110CF4B002F5417 /* House.m in Sources */,
 				2ABBD1B12110CDCC002F5417 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
